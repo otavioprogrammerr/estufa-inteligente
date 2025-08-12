@@ -1,0 +1,51 @@
+[
+    {
+        "nome": "feijão",
+        "temp_min": 16.0,
+        "temp_max": 30.0,
+        "umidade_min": 40.0,
+        "umidade_max": 80.0
+    },
+    {
+        "nome": "tomate",
+        "temp_min": 18.0,
+        "temp_max": 27.0,
+        "umidade_min": 60.0,
+        "umidade_max": 80.0
+    },
+    {
+        "nome": "alface",
+        "temp_min": 10.0,
+        "temp_max": 24.0,
+        "umidade_min": 60.0,
+        "umidade_max": 80.0
+    },
+    {
+        "nome": "milho",
+        "temp_min": 18.0,
+        "temp_max": 32.0,
+        "umidade_min": 50.0,
+        "umidade_max": 75.0
+    },
+    {
+        "nome": "café",
+        "temp_min": 18.0,
+        "temp_max": 24.0,
+        "umidade_min": 70.0,
+        "umidade_max": 90.0
+    },
+    {
+        "nome": "laranja",
+        "temp_min": 15.0,
+        "temp_max": 30.0,
+        "umidade_min": 60.0,
+        "umidade_max": 80.0
+    },
+    {
+        "nome": "soja",
+        "temp_min": 20.0,
+        "temp_max": 30.0,
+        "umidade_min": 40.0,
+        "umidade_max": 75.0
+    }
+]
