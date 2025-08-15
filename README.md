@@ -9,7 +9,8 @@ Uma estufa controlada por arduino, que tem como sensores sensores de umidade do 
 Abaixo estão algumas frases de pessoas que nos inspiraram durante o projeto que acreditamos que vocês conheçam:
 
 ### Steve Jobs – Cofundador da Apple  
-> "A inovação distingue um líder de um seguidor."
+> "Não deixe o barulho da opinião dos outros abafar sua voz interior. E mais importante, tenha a coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar. Tudo o mais é secundário."
+> "Não faz sentido olhar para trás e pensar: devia ter feito isso ou aquilo, devia ter estado lá. Isso não importa. Vamos inventar o amanhã e parar de nos preocupar com o passado."
 
 ### Bill Gates – Cofundador da Microsoft  
 > "O sucesso é um péssimo professor. Ele seduz pessoas inteligentes a pensar que não podem perder."
